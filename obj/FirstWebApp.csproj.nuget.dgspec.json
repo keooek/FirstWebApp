@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DATOS\\Documents\\utils\\darwin\\workspace\\netcore\\FirstWebApp\\FirstWebApp.csproj": {}
+  },
+  "projects": {
+    "C:\\DATOS\\Documents\\utils\\darwin\\workspace\\netcore\\FirstWebApp\\FirstWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DATOS\\Documents\\utils\\darwin\\workspace\\netcore\\FirstWebApp\\FirstWebApp.csproj",
+        "projectName": "FirstWebApp",
+        "projectPath": "C:\\DATOS\\Documents\\utils\\darwin\\workspace\\netcore\\FirstWebApp\\FirstWebApp.csproj",
+        "packagesPath": "C:\\Users\\N87620\\.nuget\\packages\\",
+        "outputPath": "C:\\DATOS\\Documents\\utils\\darwin\\workspace\\netcore\\FirstWebApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\N87620\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\DATOS\\Documents\\utils\\darwin\\sdk\\dotnet-sdk-5.0.202-win-x64\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
